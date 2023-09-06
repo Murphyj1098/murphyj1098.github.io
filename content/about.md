@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Joseph Murphy, some guy writing code"
+description = "About page"
 date = "2023-09-02"
 aliases = ["about-us", "contact"]
 author = "Joseph Murphy"
