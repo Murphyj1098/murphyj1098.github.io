@@ -6,7 +6,7 @@ copyright = ""
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
-disqusShortname = ""
+# disqusShortname = ""
 
 # [languages]
 # config/_default/languages.toml
